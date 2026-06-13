@@ -13,34 +13,87 @@
 I am a Computer Engineering graduate dedicated to building highly secure, intelligent, and automated software ecosystems. My technical expertise spans across:
 * **Zero-Knowledge Cryptographic Protocols** & P2P networking architectures.
 * **Deep Learning & Computer Vision** (MediaPipe attention tracking, OCR parsing).
-* **Sensor-Fusion Mobile Applications** (GPS-Anchored IMU calibration).
+* **Sensor-Fusion Mobile Applications** (GPS-IMU calibration & drift mitigation).
 * **Intelligent RPA & Web Automation** (Playwright-stealth and anti-bot bypassing).
-* **SaaS & Serverless Infrastructures** (Next.js, FastAPI, Supabase, Neon).
+* **SaaS & Serverless Cloud Infrastructures** (Next.js, .NET Core, FastAPI, Supabase).
 
 I specialize in creating clean, robust, and cost-efficient architectures (often utilizing serverless free tiers or local execution models like LM Studio).
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 📊 GitHub Analytics
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                              LANGUAGES                                 │
-│          Python  ·  TypeScript  ·  Dart  ·  Kotlin  ·  C#  ·  C++       │
-├────────────────────────────────────────────────────────────────────────┤
-│                          AI & MACHINE LEARNING                         │
-│   Gemini API · Local LLMs (LM Studio) · sentence-transformers · UMAP   │
-│               MediaPipe Attention Tracking · Vosk Speech STT           │
-├────────────────────────────────────────────────────────────────────────┤
-│                           WEB & CLOUD SAAS                             │
-│   Next.js (14-16 App Router) · React · FastAPI · Supabase RLS · Neon   │
-│             MongoDB (Motor Async) · PWA · Tailwind CSS · n8n           │
-├────────────────────────────────────────────────────────────────────────┤
-│                         AUTOMATION & SYSTEMS                           │
-│ Playwright Stealth · PyAutoGUI · Tesseract OCR · Voicemeeter routing  │
-│          Win32 API · Windows Message Subclassing · PyInstaller         │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erkinavcii&show_icons=true&theme=radical&hide_border=true" alt="Ali Erkin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkinavcii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚙️ Frameworks & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js_14--16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-2D3748?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F72A?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-130B24?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+### 🔧 DevOps, Automation & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright_Stealth-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/RSA--4096_/_AES--256-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC_/_DTLS--SRTP-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🧠 AI, Machine Learning & NLP
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vosk_STT-FF6F00?style=for-the-badge&logo=audio-technica&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
@@ -123,83 +176,184 @@ sequenceDiagram
 
 ---
 
-### 4. 🛡️ [FamilyPulse](https://github.com/erkinavcii/FamilyPulse) (Safety Tracking & ML Vitals)
-A family safety and location monitoring application built for children, elderly individuals, and people with autism, optimized for zero-cost hosting.
+## 📂 Featured Applications Grid
 
-*   **Multi-Mode Konum Servisi:** Periodic background updates using Android WorkManager (~15m ticks) and aggressive real-time tracking via Android Foreground Services (~3m ticks).
-*   **Smart Geofencing:** Safe Zone geofence triggers with a customized 30m hysteresis buffer to prevent border-bounce notification spam.
-*   **Emergency Bypass:** Remote audio unmute and system Do Not Disturb (DND) bypass over custom Firestore commands, letting caregivers locate silenced devices.
-*   **Bento Analytics:** Weekly security summaries logging local diagnostics (battery levels, active screens) mapped to dashboard statistics using local SQLite caching.
-*   **Health Dashboard:** Wear OS smartwatch vital tracking displaying real-time heart rate trends and ML anomaly warning triggers against personalized baselines.
-
----
-
-### 5. 📈 [Pulsify](https://github.com/erkinavcii/Pulsify) (SME Operations Dashboard)
-An AI-powered operation and customer management platform for small-to-medium enterprises (KOBİs).
-
-*   **Turkish NLP Assistant:** Google Gemini 2.5 Flash chatbot acting as a virtual assistant, allowing managers to query order statuses, check stock counts, and log client details using natural Turkish.
-*   **Automated Executive Reports:** Generates automated daily summaries, shipment bottleneck reports, and customer satisfaction graphs.
-*   **Customer Sentiment Engine:** Classifies client logs and reviews using Gemini-powered NLP to determine loyalty score matrices.
-*   **Asynchronous Architecture:** Fast React UI using Zustand for minimal state management, paired with a FastAPI backend running asynchronous Motor MongoDB drivers.
-
----
-
-### 6. 👾 Metin2 Native Hook Injector (Reverse Engineering & Memory Hooks)
-A game client automation bot that bypasses client structures to inject commands directly into the game's C++ connection layer.
-
-*   **Subclassed Windows Loop:** Hooks the target game window procedure via C++ DLL injection. Uses a custom window message queue (`WM_BRIDGE_PULSE`) to execute actions synchronously and safely on the game's main thread.
-*   **Virtual Table Scanning:** Scans memory offsets to capture internal game singletons (e.g., `g_pNetworkStream`) and hooks virtual tables of client methods (`pSendRawPacket`, `pSendOnClickPacket`).
-*   **Direct Packet Injection:** Directly constructs and writes raw binary payloads (e.g., 5-byte target selection packets containing Little-Endian VIDs) to bypass client validation checks.
-*   **Python Control Bridge:** A custom C++ bridge module exposing memory controls to a Python-based pathfinding, scanning, and automation UI.
-
----
-
-### 7. 🕵️ [IDataBot / ItalyaVize](https://github.com/erkinavcii/ItalyaVize) (Playwright-Stealth Queue Bypasser)
-An automated appointment checking and reservation bot built for the iDATA visa application queue.
-
-*   **Cloudflare Bypassing:** Employs `playwright-stealth` with customized user-agent spoofing, custom viewport sizing, and randomized human-like navigation patterns to bypass Turnstile, Cloudflare, and Akamai blockers.
-*   **Persistent Contexts:** Retains local browser cookies and sessions, removing the need for manual MFA/login verification on subsequent runs.
-*   **Self-Healing Loop:** Automatically monitors for system errors or connection drops, resets selectors, re-navigates back to the target panel, and resumes tracking.
-*   **Instant Alerts:** Employs localized sound alerts and Telegram bot warnings when a free reservation slot is discovered.
-
----
-
-### 8. 👁️ [Smart Focus Assistant / Study-Tracker](https://github.com/erkinavcii/Study-Tracker) (Computer-Vision Productivity)
-An attention and focus tracking utility that measures productive computer work time using face-mesh eye tracking.
-
-*   **Webcam Attention Tracker:** MediaPipe Iris mesh tracks user head alignment, gaze focus, and eye tracking to verify screen attention.
-*   **OS Window Monitoring:** Win32 API window title hooks monitor foreground applications, matching them against whitelisted (productive) and blacklisted (distraction) lists.
-*   **Productivity Metrics:** Computes a live "Focus Score" percentage by blending active gaze metrics with application usage.
-*   **Local Storage:** Logs session timelines, focus rates, and distractions to a local SQLite database.
-
----
-
-### 9. ⏱️ [AutoOff / WindowsShuttimer](https://github.com/erkinavcii/WindowsShuttimer) (Fluent PC Shutdown Utility)
-A modern Windows 11 Fluent Design shutdown timer utility.
-
-*   **Aggressive Countdowns:** Triggers a top-level, full-screen overlay alert with sound sirens in the final 60 seconds of a timer, allowing users to override the shutdown easily if active.
-*   **WinAPI Power Handlers:** Proactively calls win32/PowerShell hooks to bypass standard Windows sleep issues (e.g., going into hibernation instead of clean sleep).
-*   **Hardware Activity Triggers:** Monitors active network download speeds and CPU rendering workloads, postponing shutdown tasks until active processes (like video renders or heavy downloads) complete.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/erkinavcii/FamilyPulse">FamilyPulse</a></h3>
+      <p><b>Safety Tracking App for Children, Elderly & Neurodivergent Individuals</b></p>
+      <ul>
+        <li><b>Live Mapping:</b> Dynamic OpenStreetMap rendering utilizing <i>flutter_map</i> with active connection indicators and stale-location warnings (>30 min delay).</li>
+        <li><b>Multi-Mode GPS:</b> WorkManager periodic background tasks (~15m interval) + aggressive foreground tracking service (~3m interval).</li>
+        <li><b>Smart Geofencing:</b> Safe Zones (50m–1km radius) with a 30m hysteresis buffer to prevent border-bounce notification spam.</li>
+        <li><b>Remote Bypass:</b> Remote audio unmute and system DND bypass to locate lost phones.</li>
+        <li><b>ML Vitals & Reports:</b> Bento-style health dashboard tracking smartwatch heart rate anomalies against age/weight baselines.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase_Auth_/_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏃‍♂️ <a href="https://github.com/erkinavcii/Running_Tracker">Running Tracker (Kinetics)</a></h3>
+      <p><b>GPS-Anchored Sensor Fusion Running Coach</b></p>
+      <ul>
+        <li><b>Sensor Fusion:</b> Smooths 1Hz hardware GPS location checks using high-frequency (50Hz) accelerometer values.</li>
+        <li><b>Drift Mitigation:</b> Eliminates smartphone integration drift errors by using GPS as the distance source of truth, reserving the accelerometer for instant start detection and visual UI speed interpolation.</li>
+        <li><b>Detailed Telemetry:</b> Logs real-time speed, distance, and 3-axis G-force magnitude to local CSV logs for run reviews.</li>
+        <li><b>Gamified Roadmaps:</b> Achievement engines, speed gradient maps, and world-record benchmark comparisons.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sensors_Plus-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/erkinavcii/Pulsify">Pulsify</a></h3>
+      <p><b>AI-Powered Operations Dashboard & Assistant for SMEs</b></p>
+      <ul>
+        <li><b>Turkish NLP:</b> Real-time AI chatbot executing CRUD orders, checking inventory, and detecting shipment delays via natural language processing.</li>
+        <li><b>Automated Executive Reporting:</b> Google Gemini API generates consolidated operation summaries, customer sentiment metrics, and stock warnings.</li>
+        <li><b>Cargo Delay Detection:</b> Real-time shipment log scanning and proactive alert queues.</li>
+        <li><b>Slick Dashboard:</b> Styled React interface utilizing Zustand state and fully async Motor MongoDB routing.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_/_TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕵️ <a href="https://github.com/erkinavcii/IDataBot">IDataBot</a></h3>
+      <p><b>Stateful iDATA Visa Appointment Tracker</b></p>
+      <ul>
+        <li><b>Anti-Bot Bypassing:</b> Integrates <code>playwright-stealth</code> to bypass Cloudflare, Turnstile, and Akamai barriers using human-like mouse movements.</li>
+        <li><b>Persistent Login Session:</b> Cookie storage logic avoids re-authenticating on every launch.</li>
+        <li><b>Self-Healing Workflows:</b> Detects server timeout errors or page refreshes, automatically resets form selectors, and continues scanning.</li>
+        <li><b>Sound Alerts:</b> Triggers specific multi-tone Windows system sound alerts when a visa slot opens.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright_Stealth-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/XPath_Selectors-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/erkinavcii/SesliAsistan">SesliAsistan</a></h3>
+      <p><b>Conversational Real Estate Lead Persuasion Agent</b></p>
+      <ul>
+        <li><b>Local LLMs:</b> Conversational AI integrating Llama/Mistral locally via LM Studio, running personalized lead follow-ups.</li>
+        <li><b>Gemini Live Integration:</b> Live voice persuasion module using Gemini Live V2 APIs for human-sounding customer negotiation.</li>
+        <li><b>Stateful Objection Management:</b> Scripted logical gates handling price, location, and urgency objections.</li>
+        <li><b>Reporting Pipeline:</b> Outputs JSON conversation logs and generates daily conversion analytics.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LM_Studio-000000?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_Live-8E75B2?style=flat-square&logo=google&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ <a href="https://github.com/erkinavcii/Study-Tracker">Smart Focus Assistant</a></h3>
+      <p><b>Computer-Vision Screen Attention Tracker</b></p>
+      <ul>
+        <li><b>Eye/Iris Tracking:</b> Computes real-time screen-attention metrics via local webcam streams using MediaPipe Iris mesh.</li>
+        <li><b>Active App Filters:</b> Hooks Windows OS active window titles, matching them against whitelisted (work) and blacklisted (distractions).</li>
+        <li><b>Focus Ratio:</b> Aggregates screen visual alignment and window checks into a live productivity score.</li>
+        <li><b>Telemetry DB:</b> Logs work sessions, focus ratios, and distraction events to SQLite.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔑 <a href="https://github.com/erkinavcii/CevizWebsitesi">Ceviz Bahçesi (D2C)</a></h3>
+      <p><b>Direct-to-Consumer Organic Walnut E-Commerce & Logistics</b></p>
+      <ul>
+        <li><b>Serverless Database:</b> Connects Neon.tech PostgreSQL with Next.js API Routes to achieve a zero-cost server hosting model.</li>
+        <li><b>Real-Time Inventory:</b> Automatic variant stock calculations (e.g., 500g/1kg/5kg packages) with low-stock threshold triggers.</li>
+        <li><b>n8n Orchestration:</b> Automation pipelines firing SMS (Netgsm), invoices (Paraşüt API), and real-time order alerts to Telegram.</li>
+        <li><b>Secure Payments:</b> Integrates sandbox & production Iyzico 3D Secure checkout.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neon_Postgres-00E5FF?style=flat-square&logo=postgresql&logoColor=black" />
+        <img src="https://img.shields.io/badge/n8n_Automations-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/erkinavcii/CustomerRegistration">AvcıVilla (HiringCalendar)</a></h3>
+      <p><b>Vacation Villa Reservation & Availability Hub</b></p>
+      <ul>
+        <li><b>iCal Sync Motor:</b> A zero-dependency custom parser syncing Airbnb, Booking.com, and VRBO calendars in real-time, built around core Node.js SSR streams.</li>
+        <li><b>Supabase RLS:</b> Table-level security ensuring public visitors only see blocked calendar dates, while client metadata, reservation notes, and rental pricing are kept admin-only.</li>
+        <li><b>WhatsApp Lead Generator:</b> Computes totals dynamically and constructs preset booking request chat templates.</li>
+        <li><b>Analytics Admin Panel:</b> Tracks seasonal occupancies, booking stats, and multi-currency income estimations.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱️ <a href="https://github.com/erkinavcii/WindowsShuttimer">AutoOff (ShutTimer)</a></h3>
+      <p><b>Fluent Win11 styled Smart PC Shutdown Overlay</b></p>
+      <ul>
+        <li><b>Aggressive Countdowns:</b> Displays a full-screen, top-level warning dialog with sirens 60s before shutting down, allowing quick aborts.</li>
+        <li><b>WinAPI Sleep Workaround:</b> Uses PowerShell execution hooks to bypass standard Windows sleep issues (e.g., going into hibernation instead of clean sleep).</li>
+        <li><b>Hardware Activity Triggers:</b> Monitors active network download speeds and CPU utilization triggers, postponing shutdown tasks until active processes complete.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CustomTkinter-4A7C59?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/erkinavcii/LyraApp-Pair">LyraApp</a></h3>
+      <p><b>Material 3 Online/Offline Music Player for Android</b></p>
+      <ul>
+        <li><b>MVI Pattern:</b> Implements strict Model-View-Intent data flow with clean separate contract interfaces.</li>
+        <li><b>Local/Cloud Sync:</b> Connects with backend REST APIs for online playback, caching audio tracks locally for offline use.</li>
+        <li><b>Jetpack Compose UI:</b> Fluent audio visualizers, dynamic backgrounds, and custom playback controls.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_Jetpack_Compose-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVI_Architecture-000000?style=flat-square&logo=diagrams.net&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📁 Other Repositories
 
-*   **[Fatura Takip (Billing Tracker PWA)](https://github.com/erkinavcii/Fatura-Takip-Uygulamas-Billing-Tracker-PWA-)**: An offline-first serverless Progressive Web App for tracking bills, with smart recurring cycle updates and browser notifications. *(HTML5 / CSS3 / Tailwind CSS / Vanilla JS)*
+<details>
+  <summary>🎓 <b>View Academic & Coursework Repositories</b></summary>
+
+*   **[Fatura-Takip-Uygulamas-Billing-Tracker-PWA-](https://github.com/erkinavcii/Fatura-Takip-Uygulamas-Billing-Tracker-PWA-)**: Serverless Progressive Web App designed to track monthly or recurring bills with local browser storage and notification alerts. *(HTML5 / CSS3 / Tailwind CSS / Vanilla JS)*
 *   **[deprem-bot](https://github.com/erkinavcii/deprem-bot)**: A serverless earthquake notification bot running on GitHub Actions cron tasks, filtering coordinates using the Haversine formula and generating static map images (Geoapify) for Telegram warnings. *(Python)*
 *   **[KariyerKapisiBot](https://github.com/erkinavcii/KariyerKapisiBot)**: Automated session manager tracking application updates on the Turkish Government career gate website. *(Python)*
 *   **[Turkcellgygy5-kotlin-bankac-l-k](https://github.com/erkinavcii/Turkcellgygy5-kotlin-bankac-l-k)**: A Kotlin mobile banking console application model developed for the Turkcell GYGY Bootcamp. *(Kotlin)*
-*   **[CustomerRegistration](https://github.com/erkinavcii/CustomerRegistration)** & **[OopLab](https://github.com/erkinavcii/OopLab)**: Coursework directories utilizing ASP.NET Core MVC, Entity Framework, MSSQL localdb, and JWT Bearer authorization tests. *(C#)*
+*   **[CustomerRegistration](https://github.com/erkinavcii/CustomerRegistration)** & **[OopLab](https://github.com/erkinavcii/OopLab)**: Coursework directories utilizing ASP.NET Core MVC, Entity Framework, MSSQL localdb, and JWT Bearer authorization tests. *(C# / .NET)*
 *   **[AygazYapayZeka](https://github.com/erkinavcii/AygazYapayZeka)**: Visualizations and notebooks detailing the Aygaz AI Literacy program. *(Jupyter Notebook)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkinavcii&show_icons=true&theme=radical&hide_border=true" alt="Ali Erkin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkinavcii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+</details>
 
 ---
 
