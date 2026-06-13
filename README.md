@@ -25,19 +25,34 @@ When I'm not coding or designing agentic frameworks, you can find me playing ten
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧩 Tech Stack
 
-**AI & Machine Learning**
-* `NLP` `Vector Embeddings` `UMAP` `Sentence-Transformers` `Gemini API` `Pandas`
+### 🧠 AI & Machine Learning
+![NLP](https://img.shields.io/badge/NLP-FF9900?style=flat)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-008080?style=flat)
+![UMAP](https://img.shields.io/badge/UMAP-8A2BE2?style=flat)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Backend & Automation**
-* `Python` `C#` `ASP.NET Core` `Web Scraping` `Selenium/Playwright` `Waydroid`
+### ⚙️ Backend & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Waydroid-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Frontend & Mobile**
-* `TypeScript` `Dart` `Flutter` `Streamlit` `HTML/CSS`
+### 📱 Frontend & Mobile
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Cloud, Hardware & Tools**
-* `Vercel` `Render` `Firebase` `SQL Server` `ESP32 / IoT` `Git`
+### ☁️ Cloud, Hardware & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Arduino/ESP32](https://img.shields.io/badge/Arduino_ESP32-00979D?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
