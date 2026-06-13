@@ -57,6 +57,21 @@ When I'm not coding or designing agentic frameworks, you can find me playing ten
 ---
 
 ### 🔥 Featured Projects
+🚀 Engineering Highlights & Solutions
+⚡ Event-Driven E-Commerce Automation (Architecture Highlight)
+The Challenge: Real-time processing of e-commerce orders into customized visual templates without overloading the server with continuous API polling.
+
+The Solution: Architected an event-driven system replacing polling with Webhooks and Ngrok. Integrated a Python script that processes incoming JSON data asynchronously in milliseconds, instantly generating and dispatching visual previews to customers with zero unnecessary server strain.
+
+🤖 Intelligent Automation & SaaS Suite
+Cloud Restaurant SaaS: End-to-end cloud-based menu management and reservation system.
+
+Workflow Automations: Engineered custom n8n pipelines for personalized, order-triggered email sequences and operational alerts.
+
+GovNews AI Bot: Automated scraping of official state data, utilizing the Gemini API for natural language summarization and Telegram for distribution.
+
+Voice Assistant SaaS (IVR): Automated WhatsApp call handler utilizing Linux-based Android emulation.
+
 
 #### 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SematicGalaxyContext)
 **AI-Driven Semantic Knowledge Management System**
