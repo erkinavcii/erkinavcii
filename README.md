@@ -338,6 +338,40 @@ sequenceDiagram
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 <a href="https://github.com/erkinavcii/otel-projesi">OtelApp</a></h3>
+      <p><b>Full-Stack Airbnb-Style Property Booking Platform</b></p>
+      <ul>
+        <li><b>Complete REST API:</b> Django REST Framework backend with three independent domain modules: <code>properties</code>, <code>bookings</code>, and <code>pricing</code>.</li>
+        <li><b>Cloud Media Storage:</b> Cloudinary + AWS S3/boto3 integration for property image management and CDN delivery.</li>
+        <li><b>Admin Dashboard:</b> Django Jazzmin-powered admin panel with full reservation, pricing, and property management capabilities.</li>
+        <li><b>Production-Ready:</b> Gunicorn WSGI server + WhiteNoise static file serving, configured for immediate cloud deployment.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/erkinavcii/Pythonsolanabot">Solana Sniper Bot V18</a></h3>
+      <p><b>High-Speed DeFi Trading Bot for Solana Meme Coins</b></p>
+      <ul>
+        <li><b>Sub-Second Execution:</b> Monitors Telegram signal channels via regex parsing and fires buy orders through Jupiter V6 API within milliseconds of a signal.</li>
+        <li><b>Rugcheck & Honeypot Shield:</b> Automatically screens tokens via Rugcheck API before purchase, eliminating unsellable and rug-pull-risk assets.</li>
+        <li><b>Dual Exit Strategies:</b> Supports Direct TP/SL (fixed targets) and Trailing Stop (peak-tracking) modes for both conservative and moonshot trading scenarios.</li>
+        <li><b>Remote Command Center:</b> Built-in Telegram command interface (<code>/status</code>, <code>/panic</code>, <code>/buy</code>) for live position management and PNL reporting.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupiter_V6_API-FFC107?style=flat-square&logo=bitcoin&logoColor=black" />
+        <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
