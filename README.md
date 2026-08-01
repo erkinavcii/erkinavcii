@@ -99,7 +99,7 @@ I specialize in creating clean, robust, and cost-efficient architectures (often 
 
 ## 🌌 Core Projects Showcase
 
-### 1. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SematicGalaxyContext) (AI & Semantic Knowledge Graph)
+### 1. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SematicGalaxyContext) · [🌐 Live Demo](https://sematicgalaxycontext-ysbtyhl4rqg7ijsja43fs4.streamlit.app/) (AI & Semantic Knowledge Graph)
 A new-generation personal knowledge management system that uses machine learning to analyze saved bookmarks, structure associations, and project them into an interactive 3D semantic space.
 
 *   **Machine Learning Pipeline:** Utilizes `sentence-transformers` (`all-MiniLM-L6-v2`) to generate 384-dimensional dense vector embeddings of bookmark descriptions and tags.
@@ -293,8 +293,8 @@ sequenceDiagram
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/erkinavcii/CustomerRegistration">AvcıVilla (HiringCalendar)</a></h3>
-      <p><b>Vacation Villa Reservation & Availability Hub</b></p>
+      <h3>🏠 <a href="https://hiring-calendar-two.vercel.app/">AvcıVilla (HiringCalendar)</a></h3>
+      <p><b>Vacation Villa Reservation & Availability Hub</b> <a href="https://hiring-calendar-two.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p>
       <ul>
         <li><b>iCal Sync Motor:</b> A zero-dependency custom parser syncing Airbnb, Booking.com, and VRBO calendars in real-time, built around core Node.js SSR streams.</li>
         <li><b>Supabase RLS:</b> Table-level security ensuring public visitors only see blocked calendar dates, while client metadata, reservation notes, and rental pricing are kept admin-only.</li>
@@ -340,8 +340,8 @@ sequenceDiagram
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏨 <a href="https://github.com/erkinavcii/otel-projesi">OtelApp</a></h3>
-      <p><b>Full-Stack Airbnb-Style Property Booking Platform</b></p>
+      <h3>🏨 <a href="https://otel-projesi.vercel.app/">OtelApp</a></h3>
+      <p><b>Full-Stack Airbnb-Style Property Booking Platform</b> <a href="https://otel-projesi.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p>
       <ul>
         <li><b>Complete REST API:</b> Django REST Framework backend with three independent domain modules: <code>properties</code>, <code>bookings</code>, and <code>pricing</code>.</li>
         <li><b>Cloud Media Storage:</b> Cloudinary + AWS S3/boto3 integration for property image management and CDN delivery.</li>
