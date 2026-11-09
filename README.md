@@ -24,8 +24,8 @@ I specialize in creating clean, robust, and cost-efficient architectures (often 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkinavcii&show_icons=true&theme=radical&hide_border=true" alt="Ali Erkin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkinavcii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erkinavcii&theme=radical" alt="Ali Erkin's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erkinavcii&theme=radical" alt="Top Languages by Commit" width="48%" />
 </p>
 
 ---
@@ -58,12 +58,17 @@ I specialize in creating clean, robust, and cost-efficient architectures (often 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/CustomTkinter-2D3748?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native_/_Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity_6-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Hosting
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -84,6 +89,12 @@ I specialize in creating clean, robust, and cost-efficient architectures (often 
   <img src="https://img.shields.io/badge/RSA--4096_/_AES--256-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC_/_DTLS--SRTP-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirusTotal_API-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Sandbox-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg_/_HLS-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 ### 🧠 AI, Machine Learning & NLP
@@ -93,50 +104,55 @@ I specialize in creating clean, robust, and cost-efficient architectures (often 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Vosk_STT-FF6F00?style=for-the-badge&logo=audio-technica&logoColor=white" />
   <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek_API-4D6BFE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌌 Core Projects Showcase
 
-### 1. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SematicGalaxyContext) · [🌐 Live Demo](https://sematicgalaxycontext-ysbtyhl4rqg7ijsja43fs4.streamlit.app/) (AI & Semantic Knowledge Graph)
-A new-generation personal knowledge management system that uses machine learning to analyze saved bookmarks, structure associations, and project them into an interactive 3D semantic space.
+### 1. 🎬 [Co-Watch](https://github.com/erkinavcii/CoWatch) · [⬇️ Windows Installer](https://github.com/erkinavcii/CoWatch/releases/latest) (Self-Hosted Watch Party & Real-Time Sync)
+Watch the same film with friends far away while **everyone picks their own subtitle languages** (you TR + EN, your friend RU + EN). The host's local file or torrent is streamed in original quality — no upload, no account, no rented server.
 
-*   **Machine Learning Pipeline:** Utilizes `sentence-transformers` (`all-MiniLM-L6-v2`) to generate 384-dimensional dense vector embeddings of bookmark descriptions and tags.
-*   **Dimensionality Reduction:** Applies `UMAP` (Uniform Manifold Approximation and Projection) to project the high-dimensional vectors into interactive 3D coordinates.
-*   **Interactive Spatial UI:** Plotly-based dark-mode 3D scatter graph running inside Streamlit, displaying clusters of semantically related bookmarks together.
-*   **Hybrid Search Engine:** Allows querying in natural language (e.g., *"music making robots"*) combined with multi-select tag filters (AND/OR logic) and similarity progress bars.
-*   **Turkish NLP Optimization:** Custom word cloud and statistics module with native Turkish stopwords filtering.
+*   **Lossless HLS Pipeline:** FFmpeg copies the video stream untouched (audio → AAC stereo) into HLS; magnet links are streamed through a Node `webtorrent` helper that fetches the container header/index first, then pieces in playback order.
+*   **Server-Authoritative Sync:** A FastAPI WebSocket room is the single source of truth (`playing`, `position`, `updatedAt`). Clients drifting > 1 s seek; 0.1–1 s drift is corrected smoothly by ±5 % playback rate. The room waits for stalled viewers until they have 4 s buffered.
+*   **Personal Dual Subtitles:** Subtitles are never burned in — each browser renders its own main + secondary track against the film clock, with per-track offsets. Subtitles are cached by OpenSubtitles hash; legacy encodings (`cp1254`, `cp1251`) are auto-fixed; missing languages can be translated by LLMs (cloud or local Ollama / LM Studio).
+*   **Together, not just synced:** P2P WebRTC voice, camera and screen sharing, live pointers and a drawing pen anchored to the same spot of the frame on every screen.
+*   **Zero-Config Sharing:** Tailscale Serve / Funnel gives friends one HTTPS link; a tray app + Inno Setup installer bundles FFmpeg and Node. Covered by a CI test workflow on GitHub Actions.
 
 ```mermaid
-graph TD
-    A[User Bookmarks: Title, URL, Desc, Tags] -->|Concatenate Text| B[sentence-transformers]
-    B -->|384D Embeddings| C[UMAP Projection]
-    C -->|3D Spatial Coordinates| D[Interactive Plotly 3D Graph]
-    E[Natural Language Query] -->|Cosine Similarity| F[Hybrid Search Engine]
-    D -->|Hover Details & Click URL| G[Streamlit Frontend]
-    F -->|Ranked Similarity Results| G
+graph LR
+    A[Local video file] --> C[FFmpeg - video copy, AAC audio]
+    B[Magnet link] -->|webtorrent helper| C
+    C -->|HLS segments| D[FastAPI room and sync server]
+    D <-->|WebSocket - play, pause, seek| E[Viewer browsers - hls.js]
+    E <-->|WebRTC voice, camera, screen| F[Other viewers]
+    G[OpenSubtitles / AI translation] -->|Per-viewer dual subtitles| E
 ```
 
 ---
 
-### 2. 📞 [WhatsApp VoIP IVR Automation](https://github.com/erkinavcii/WhatsappAssistant) (Desktop RPA & Audio Routing)
-A serverless, desktop-level Interactive Voice Response (IVR) bot and answering machine designed for WhatsApp Desktop that operates without official API hooks.
+### 2. 🧪 [SafeBox — Malware Triage Pipeline](https://github.com/erkinavcii/wsb-triage) (Security Tooling & Dynamic Analysis)
+A local web panel that inspects a downloaded file **before** it ever runs on the host — static analysis, reputation lookup and detonation inside a disposable Windows Sandbox, ending in a single verdict.
 
-*   **Computer Vision Interceptor:** Uses PyAutoGUI template matching to detect and automatically answer incoming WhatsApp voice calls in real-time.
-*   **OCR Caller Recognition:** Captures caller metadata dynamically off the screen using Tesseract-OCR to log caller identity.
-*   **Local Speech-to-Text (STT):** Integrates offline Turkish Vosk models to process voice commands (e.g., answering *"yes/no"* or selecting menu digits via voice).
-*   **Hardware Virtual Audio Pipeline:** Dynamically routes application playbacks and mic inputs using Voicemeeter Banana virtual drivers, resolving audio loopback and acoustic echo issues.
-*   **Telegram Media Pipeline:** Auto-records calls, converts to compressed MP3/WAV format, and posts both the audio recording and the call-time OCR screenshot to a target Telegram channel.
+*   **Static Analysis:** SHA-256 + Authenticode checks, PE header inspection, entropy, suspicious API imports and stealer / Telegram / Discord / anti-VM indicators on the 40 most suspicious files. Archives (RAR, encrypted, multi-part) are extracted with 7-Zip — nothing is executed at this stage.
+*   **Quota-Aware VirusTotal v3:** Hash lookups first (known malware surfaces instantly), then uploads of unknown files up to 650 MB, with automatic free-tier rate-limit back-off.
+*   **Hardened Dynamic Analysis:** Generated `.wsb` configs mount the sample read-only with clipboard, vGPU, printer, mic and camera disabled. An in-sandbox PowerShell monitor records new processes, connections, services, scheduled tasks, autoruns, Defender/hosts/firewall changes and dropped files; traffic is captured to `pcapng` via `pktmon`.
+*   **LAN Isolation with Tamper Detection:** A firewall rule blocks the home network and host from inside the sandbox; it is re-verified every 5 s and a removal re-applies it and raises a **RED** flag.
+*   **Safe-by-Default Panel:** Binds to `127.0.0.1` only and rejects cross-origin requests via `Origin` / `Sec-Fetch-Site` checks (CSRF and DNS-rebinding protection). Results are classified **RED / REVIEW** with a Markdown report and Wireshark-based DNS/TLS/HTTP summary.
 
 ```mermaid
 graph LR
-    A[Incoming WhatsApp Call] -->|PyAutoGUI Vision| B[Auto Answer Call]
-    B -->|Tesseract OCR| C[Identify Caller Name]
-    C -->|Voicemeeter Banana Virtual Routing| D[Play MP3 Voice Menu]
-    E[Caller Voice Input] -->|Vosk Speech-to-Text| F[Execute Menu Branch]
-    F -->|Record Voice Message| G[Save WAV/MP3]
-    G -->|Telegram Bot API| H[Deliver Audio & Screen Log to Telegram]
+    A[Downloaded file] --> B[Prepare - 7-Zip, read-only mount]
+    B --> C[Hash and signature]
+    C --> D[Static PE analysis]
+    D --> E[VirusTotal v3]
+    E --> F[Windows Sandbox run + pcap]
+    F --> G[Verdict - RED or REVIEW]
 ```
 
 ---
@@ -153,7 +169,7 @@ A lightweight hybrid peer-to-peer messaging application designed to secure commu
 ```mermaid
 sequenceDiagram
     participant Sender
-    participant Server (Untrusted Relay)
+    participant Server as Server (Untrusted Relay)
     participant Recipient
 
     Note over Sender, Recipient: 1. Handshake & Key Setup
@@ -176,12 +192,49 @@ sequenceDiagram
 
 ---
 
+### 4. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SematicGalaxyContext) · [🌐 Live Demo](https://sematicgalaxycontext-ysbtyhl4rqg7ijsja43fs4.streamlit.app/) (AI & Semantic Knowledge Graph)
+A new-generation personal knowledge management system that uses machine learning to analyze saved bookmarks, structure associations, and project them into an interactive 3D semantic space.
+
+*   **Machine Learning Pipeline:** Utilizes `sentence-transformers` (`all-MiniLM-L6-v2`) to generate 384-dimensional dense vector embeddings of bookmark descriptions and tags.
+*   **Dimensionality Reduction:** Applies `UMAP` (Uniform Manifold Approximation and Projection) to project the high-dimensional vectors into interactive 3D coordinates.
+*   **Interactive Spatial UI:** Plotly-based dark-mode 3D scatter graph running inside Streamlit, displaying clusters of semantically related bookmarks together.
+*   **Hybrid Search Engine:** Allows querying in natural language (e.g., *"music making robots"*) combined with multi-select tag filters (AND/OR logic) and similarity progress bars.
+*   **Turkish NLP Optimization:** Custom word cloud and statistics module with native Turkish stopwords filtering.
+
+```mermaid
+graph TD
+    A[User Bookmarks: Title, URL, Desc, Tags] -->|Concatenate Text| B[sentence-transformers]
+    B -->|384D Embeddings| C[UMAP Projection]
+    C -->|3D Spatial Coordinates| D[Interactive Plotly 3D Graph]
+    E[Natural Language Query] -->|Cosine Similarity| F[Hybrid Search Engine]
+    D -->|Hover Details & Click URL| G[Streamlit Frontend]
+    F -->|Ranked Similarity Results| G
+```
+
+---
+
 ## 📂 Featured Applications Grid
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/erkinavcii/FamilyPulse">FamilyPulse</a></h3>
+      <h3>🚗 <a href="https://github.com/erkinavcii/Rencar">Rencar</a></h3>
+      <p><b>Car-Sharing Android App with On-Device AI Verification</b><br/><sub>Team project · Turkcell GYGY-5</sub></p>
+      <ul>
+        <li><b>On-Device Face Matching:</b> Driver's-licence photo vs. live selfie verification with Google ML Kit + TensorFlow Lite — no biometric data leaves the phone.</li>
+        <li><b>Live Vehicle Tracking:</b> Socket.IO position stream with linear interpolation for smooth movement on a MapLibre map.</li>
+        <li><b>Server-Synced Rental Lifecycle:</b> <code>PREPARING → ACTIVE → COMPLETED</code> with per-minute / hourly / daily plans, live fare and before/after vehicle photos.</li>
+        <li><b>Real Payments:</b> Iyzico sandbox checkout with wallet or card; MVI + unidirectional data flow, Hilt and the Repository pattern.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ FamilyPulse</h3>
       <p><b>Safety Tracking App for Children, Elderly & Neurodivergent Individuals</b></p>
       <ul>
         <li><b>Live Mapping:</b> Dynamic OpenStreetMap rendering utilizing <i>flutter_map</i> with active connection indicators and stale-location warnings (>30 min delay).</li>
@@ -191,9 +244,95 @@ sequenceDiagram
         <li><b>ML Vitals & Reports:</b> Bento-style health dashboard tracking smartwatch heart rate anomalies against age/weight baselines.</li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Riverpod-764ABC?style=flat-square&logo=redux&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase_Auth_/_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📞 SmartDesk IVR (WhatsApp Voice Assistant v2)</h3>
+      <p><b>Server-Side WhatsApp Answering Machine — Ground-Up Rewrite</b></p>
+      <ul>
+        <li><b>v1 → v2 Evolution:</b> v1 was a Windows desktop RPA (PyAutoGUI template matching, Tesseract OCR, Voicemeeter, offline Vosk STT). v2 rebuilds it for repeatable per-customer deployment on Linux with Docker.</li>
+        <li><b>Deterministic Call Detection:</b> Android UI tree + activity state via ADB replace screen-template guessing; caller names come from UI text instead of OCR.</li>
+        <li><b>Echo-Free Audio by Design:</b> A PulseAudio null-sink gives a one-way digital audio path — no virtual mixer, no reboot, no "mute mic" hack.</li>
+        <li><b>Reliable Delivery:</b> Recordings and summaries go to Telegram via the plain Bot API with retries and an on-disk queue that survives network outages.</li>
+        <li><b>Gated Rollout:</b> Phased plan with an explicit hardware go/no-go gate before production.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_ADB-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ Emlak Voice Agent</h3>
+      <p><b>Turkish Real-Estate Voice Agent — One Goal, Four Architectures</b></p>
+      <ul>
+        <li><b>Goal:</b> Talks with property owners in Turkish to book an office meeting or bring the listing into the agency's portfolio.</li>
+        <li><b>Classic Pipeline:</b> Microphone → Groq Whisper STT → Groq LLM → Edge-TTS, validated end to end with real APIs.</li>
+        <li><b>Gemini Live:</b> Native audio-to-audio conversation with low latency and barge-in, as a Python terminal agent and a React + Vite app with listings and a calendar; the API key stays on the server, which mints short-lived tokens for the browser.</li>
+        <li><b>Real Phone Calls:</b> Batch outbound calling through a Vapi assistant on a Twilio number, fed by a CSV format shared by all four versions.</li>
+        <li><b>Responsible by Design:</b> The agent always discloses that it is an AI; KVKK / İYS consent is required before calling real people.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_Live-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio_/_Vapi-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/erkinavcii/AI-Resume-Optimizer">AI Resume Optimizer</a></h3>
+      <p><b>ATS-Focused CV Optimizer & Career Coach</b></p>
+      <ul>
+        <li><b>AI Pipeline:</b> PDF CV → structured JSON with the Google Gen AI SDK, job-posting requirement extraction, and ATS-oriented rewriting shown as an inline diff with an ATS score.</li>
+        <li><b>SSRF Shield:</b> The job-posting URL fetcher allows only <code>http/https</code> and blocks localhost, RFC 1918 ranges and the <code>169.254.169.254</code> cloud metadata endpoint.</li>
+        <li><b>Abuse & Cost Controls:</b> Per-endpoint IP rate limits (e.g. 3/min for image generation, 20/min for chat) and layered payload limits (2 MB default, 15 MB only on the PDF route).</li>
+        <li><b>Zero Client Key Leakage:</b> All keys stay server-side; a central <code>MODEL_CONFIG</code> registry isolates model deprecations. Includes TTS interview rehearsal and a coaching chat.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 <a href="https://github.com/erkinavcii/Sicakfirsatlar-indirim-takip">Smart Deal Tracker</a></h3>
+      <p><b>Forum Deal Scraper with Turkish NLP & AI Price Verification</b></p>
+      <ul>
+        <li><b>Async Scraping:</b> Asynchronous pipeline over XenForo deal forums that skips expired deals via thread prefixes.</li>
+        <li><b>Turkish Stemmer:</b> A custom normalizer strips inflectional suffixes and reverses consonant softening (<i>kulaklığı → kulaklık</i>, <i>bebeği → bebek</i>) so keyword filters don't miss agglutinated forms.</li>
+        <li><b>AI Verification Mode:</b> Gemini extracts clean product/price via Pydantic structured output, then checks real market prices with Google Search Grounding — only deals ≥ 10 % below market are kept.</li>
+        <li><b>Dual-Mode:</b> Runs fully locally without an API key; FastAPI dashboard + Telegram alerts.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_Grounding-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❄️ <a href="https://github.com/erkinavcii/IR-AC-Timer">IR AC Timer</a></h3>
+      <p><b>Set-&-Forget Air Conditioner Shutdown via the Phone's IR Blaster</b></p>
+      <ul>
+        <li><b>Flutter + Native Kotlin:</b> Flutter UI; IR hardware access (<code>ConsumerIrManager</code>) and scheduling written natively and bridged over a <code>MethodChannel</code>.</li>
+        <li><b>Doze-Proof Timing:</b> <code>setExactAndAllowWhileIdle</code> alarms fire on time even in deep sleep; <code>BOOT_COMPLETED</code> restores tasks after a reboot.</li>
+        <li><b>Countdown & Cycle Modes:</b> One-shot timers or a cycle mode that re-sends the signal every X minutes within an optional time window, with per-brand AC IR code profiles.</li>
+        <li><b>OEM Hardening:</b> Explicit handling of Xiaomi / MIUI / HyperOS background-kill behaviour; Kotlin unit tests for the scheduler.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_AlarmManager-3DDC84?style=flat-square&logo=android&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -214,54 +353,7 @@ sequenceDiagram
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/erkinavcii/Pulsify">Pulsify</a></h3>
-      <p><b>AI-Powered Operations Dashboard & Assistant for SMEs</b></p>
-      <ul>
-        <li><b>Turkish NLP:</b> Real-time AI chatbot executing CRUD orders, checking inventory, and detecting shipment delays via natural language processing.</li>
-        <li><b>Automated Executive Reporting:</b> Google Gemini API generates consolidated operation summaries, customer sentiment metrics, and stock warnings.</li>
-        <li><b>Cargo Delay Detection:</b> Real-time shipment log scanning and proactive alert queues.</li>
-        <li><b>Slick Dashboard:</b> Styled React interface utilizing Zustand state and fully async Motor MongoDB routing.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_/_TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕵️ <a href="https://github.com/erkinavcii/IDataBot">IDataBot</a></h3>
-      <p><b>Stateful iDATA Visa Appointment Tracker</b></p>
-      <ul>
-        <li><b>Anti-Bot Bypassing:</b> Integrates <code>playwright-stealth</code> to bypass Cloudflare, Turnstile, and Akamai barriers using human-like mouse movements.</li>
-        <li><b>Persistent Login Session:</b> Cookie storage logic avoids re-authenticating on every launch.</li>
-        <li><b>Self-Healing Workflows:</b> Detects server timeout errors or page refreshes, automatically resets form selectors, and continues scanning.</li>
-        <li><b>Sound Alerts:</b> Triggers specific multi-tone Windows system sound alerts when a visa slot opens.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright_Stealth-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/XPath_Selectors-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/erkinavcii/SesliAsistan">SesliAsistan</a></h3>
-      <p><b>Conversational Real Estate Lead Persuasion Agent</b></p>
-      <ul>
-        <li><b>Local LLMs:</b> Conversational AI integrating Llama/Mistral locally via LM Studio, running personalized lead follow-ups.</li>
-        <li><b>Gemini Live Integration:</b> Live voice persuasion module using Gemini Live V2 APIs for human-sounding customer negotiation.</li>
-        <li><b>Stateful Objection Management:</b> Scripted logical gates handling price, location, and urgency objections.</li>
-        <li><b>Reporting Pipeline:</b> Outputs JSON conversation logs and generates daily conversion analytics.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LM_Studio-000000?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_Live-8E75B2?style=flat-square&logo=google&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/erkinavcii/Study-Tracker">Smart Focus Assistant</a></h3>
+      <h3>👁️ Smart Focus Assistant</h3>
       <p><b>Computer-Vision Screen Attention Tracker</b></p>
       <ul>
         <li><b>Eye/Iris Tracking:</b> Computes real-time screen-attention metrics via local webcam streams using MediaPipe Iris mesh.</li>
@@ -270,13 +362,12 @@ sequenceDiagram
         <li><b>Telemetry DB:</b> Logs work sessions, focus ratios, and distraction events to SQLite.</li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🔑 <a href="https://github.com/erkinavcii/CevizWebsitesi">Ceviz Bahçesi (D2C)</a></h3>
       <p><b>Direct-to-Consumer Organic Walnut E-Commerce & Logistics</b></p>
@@ -292,51 +383,6 @@ sequenceDiagram
         <img src="https://img.shields.io/badge/n8n_Automations-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://hiring-calendar-two.vercel.app/">AvcıVilla (HiringCalendar)</a></h3>
-      <p><b>Vacation Villa Reservation & Availability Hub</b> <a href="https://hiring-calendar-two.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p>
-      <ul>
-        <li><b>iCal Sync Motor:</b> A zero-dependency custom parser syncing Airbnb, Booking.com, and VRBO calendars in real-time, built around core Node.js SSR streams.</li>
-        <li><b>Supabase RLS:</b> Table-level security ensuring public visitors only see blocked calendar dates, while client metadata, reservation notes, and rental pricing are kept admin-only.</li>
-        <li><b>WhatsApp Lead Generator:</b> Computes totals dynamically and constructs preset booking request chat templates.</li>
-        <li><b>Analytics Admin Panel:</b> Tracks seasonal occupancies, booking stats, and multi-currency income estimations.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⏱️ <a href="https://github.com/erkinavcii/WindowsShuttimer">AutoOff (ShutTimer)</a></h3>
-      <p><b>Fluent Win11 styled Smart PC Shutdown Overlay</b></p>
-      <ul>
-        <li><b>Aggressive Countdowns:</b> Displays a full-screen, top-level warning dialog with sirens 60s before shutting down, allowing quick aborts.</li>
-        <li><b>WinAPI Sleep Workaround:</b> Uses PowerShell execution hooks to bypass standard Windows sleep issues (e.g., going into hibernation instead of clean sleep).</li>
-        <li><b>Hardware Activity Triggers:</b> Monitors active network download speeds and CPU utilization triggers, postponing shutdown tasks until active processes complete.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/CustomTkinter-4A7C59?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/erkinavcii/LyraApp-Pair">LyraApp</a></h3>
-      <p><b>Material 3 Online/Offline Music Player for Android</b></p>
-      <ul>
-        <li><b>MVI Pattern:</b> Implements strict Model-View-Intent data flow with clean separate contract interfaces.</li>
-        <li><b>Local/Cloud Sync:</b> Connects with backend REST APIs for online playback, caching audio tracks locally for offline use.</li>
-        <li><b>Jetpack Compose UI:</b> Fluent audio visualizers, dynamic backgrounds, and custom playback controls.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android_Jetpack_Compose-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVI_Architecture-000000?style=flat-square&logo=diagrams.net&logoColor=white" />
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -349,6 +395,7 @@ sequenceDiagram
         <li><b>Production-Ready:</b> Gunicorn WSGI server + WhiteNoise static file serving, configured for immediate cloud deployment.</li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
         <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -356,23 +403,44 @@ sequenceDiagram
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/erkinavcii/Pythonsolanabot">Solana Sniper Bot V18</a></h3>
-      <p><b>High-Speed DeFi Trading Bot for Solana Meme Coins</b></p>
+      <h3>🏠 <a href="https://hiring-calendar-two.vercel.app/">AvcıVilla (HiringCalendar)</a></h3>
+      <p><b>Vacation Villa Reservation & Availability Hub</b> <a href="https://hiring-calendar-two.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p>
       <ul>
-        <li><b>Sub-Second Execution:</b> Monitors Telegram signal channels via regex parsing and fires buy orders through Jupiter V6 API within milliseconds of a signal.</li>
-        <li><b>Rugcheck & Honeypot Shield:</b> Automatically screens tokens via Rugcheck API before purchase, eliminating unsellable and rug-pull-risk assets.</li>
-        <li><b>Dual Exit Strategies:</b> Supports Direct TP/SL (fixed targets) and Trailing Stop (peak-tracking) modes for both conservative and moonshot trading scenarios.</li>
-        <li><b>Remote Command Center:</b> Built-in Telegram command interface (<code>/status</code>, <code>/panic</code>, <code>/buy</code>) for live position management and PNL reporting.</li>
+        <li><b>iCal Sync Motor:</b> A zero-dependency custom parser syncing Airbnb, Booking.com, and VRBO calendars in real-time, built around core Node.js SSR streams.</li>
+        <li><b>Supabase RLS:</b> Table-level security ensuring public visitors only see blocked calendar dates, while client metadata, reservation notes, and rental pricing are kept admin-only.</li>
+        <li><b>WhatsApp Lead Generator:</b> Computes totals dynamically and constructs preset booking request chat templates.</li>
+        <li><b>Analytics Admin Panel:</b> Tracks seasonal occupancies, booking stats, and multi-currency income estimations.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupiter_V6_API-FFC107?style=flat-square&logo=bitcoin&logoColor=black" />
-        <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🧩 More Projects
+
+> 🔒 = private repository.
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**AI Reservation Assistant**](https://github.com/erkinavcii/Ai-Reservation-Assistant) | LLM booking agent for WhatsApp / sahibinden.com leads: slot-filling for dates and guests, natural-language date parsing, tool calling against the availability API with alternative-date offers | Python · DeepSeek · FastAPI |
+| [**Pulsify**](https://github.com/cdemir7/Pulsify) | AI operations platform for SMEs — orders, shipments and customers on one screen; Gemini 2.5 Flash flags shipment delays proactively and analyses customer sentiment in real time. Team project (contributor) | FastAPI · React · MongoDB · Gemini |
+| **Dongu** 🔒 | Offline-only menstrual cycle tracker that learns which symptoms *you* get per phase — no account, no server, no network calls | React Native · Expo |
+| **Ekşim** 🔒 | Unofficial Android reader for Ekşi Sözlük; a Kotlin Multiplatform parser driven by a remote [`selectors.json`](https://github.com/erkinavcii/project-configs) so site changes are fixed without an app release | Kotlin · KMP |
+| **Wave Defense** 🔒 | Tower defense × twin-stick hero shooter: drag-to-build walls, levelled towers, research tree, enemies that hunt the hero, code-synthesized SFX | Unity 6 · C# |
+| **Gym Progress Tracker** 🔒 | Streak-driven social gym tracker with friend comparisons, 90-day heatmap and offline awareness | Flutter · Firebase |
+| **Solana Sniper Bot** 🔒 | Telegram-signal driven trading bot with Rugcheck screening, transaction confirmation checks, TP/SL and trailing-stop exits | Python · Solana · Jupiter API |
+| **MenuApp** 🔒 | Digital menu SaaS for restaurants and cafés | ASP.NET Core |
+| [**iDATA Visa Tracker**](https://github.com/erkinavcii/ItalyaVize) | Async Playwright appointment tracker with persistent sessions, self-healing form recovery and audio alerts | Python · Playwright |
+| [**LyraApp**](https://github.com/erkinavcii/LyraApp-Pair) | Material 3 online/offline music player with strict MVI contracts | Kotlin · Jetpack Compose |
+| [**AutoOff**](https://github.com/erkinavcii/WindowsShuttimer) | Win11-style shutdown overlay that postpones while downloads or CPU load are active | Python · CustomTkinter · Win32 |
+| [**HealRoute AI**](https://github.com/erkinavcii/YZTA_Bootcamp_2026) | AI health-tourism and travel planner — team project, YZTA Bootcamp 2026 | Python |
 
 ---
 
