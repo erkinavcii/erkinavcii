@@ -147,18 +147,18 @@ A local web panel that inspects a downloaded file **before** it ever runs on the
 
 ```mermaid
 flowchart TB
-    subgraph S1 [Static - nothing runs]
+    subgraph S1 ["Pre-execution — nothing runs"]
         direction LR
         A[Downloaded file] --> B[Prepare - 7-Zip, read-only mount]
         B --> C[Hash and signature]
         C --> D[Static PE analysis]
+        D --> E[VirusTotal v3]
     end
-    subgraph S2 [Dynamic - disposable VM]
+    subgraph S2 ["Dynamic — disposable VM (opt-in)"]
         direction LR
-        E[VirusTotal v3] --> F[Windows Sandbox run + pcap]
-        F --> G[Verdict - RED or REVIEW]
+        F[Windows Sandbox run + pcap] --> G[Verdict - RED or REVIEW]
     end
-    S1 --> S2
+    E --> F
 ```
 
 ---
@@ -439,6 +439,7 @@ graph TD
 | Project | What it does | Stack |
 |---|---|---|
 | [**AI Reservation Assistant**](https://github.com/erkinavcii/Ai-Reservation-Assistant) | LLM booking agent for WhatsApp / sahibinden.com leads: slot-filling for dates and guests, natural-language date parsing, tool calling against the availability API with alternative-date offers | Python · DeepSeek · FastAPI |
+| [**AI Resume Optimizer**](https://github.com/erkinavcii/AI-Resume-Optimizer) | ATS-focused CV rewriter and interview coach with inline diffs, SSRF-hardened job-URL fetching, per-route rate/payload limits and server-side key isolation | React · Express · Gemini |
 | [**Pulsify**](https://github.com/cdemir7/Pulsify) | AI operations platform for SMEs — orders, shipments and customers on one screen; Gemini 2.5 Flash flags shipment delays proactively and analyses customer sentiment in real time. Team project (contributor) | FastAPI · React · MongoDB · Gemini |
 | **Dongu** 🔒 | Offline-only menstrual cycle tracker that learns which symptoms *you* get per phase — no account, no server, no network calls | React Native · Expo |
 | **Ekşim** 🔒 | Unofficial Android reader for Ekşi Sözlük; a Kotlin Multiplatform parser driven by a remote [`selectors.json`](https://github.com/erkinavcii/project-configs) so site changes are fixed without an app release | Kotlin · KMP |
