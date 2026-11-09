@@ -49,7 +49,7 @@ I specialize in creating clean, robust, and cost-efficient architectures (often 
 ### ⚙️ Frameworks & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js_14--16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -146,13 +146,19 @@ A local web panel that inspects a downloaded file **before** it ever runs on the
 *   **Safe-by-Default Panel:** Binds to `127.0.0.1` only and rejects cross-origin requests via `Origin` / `Sec-Fetch-Site` checks (CSRF and DNS-rebinding protection). Results are classified **RED / REVIEW** with a Markdown report and Wireshark-based DNS/TLS/HTTP summary.
 
 ```mermaid
-graph LR
-    A[Downloaded file] --> B[Prepare - 7-Zip, read-only mount]
-    B --> C[Hash and signature]
-    C --> D[Static PE analysis]
-    D --> E[VirusTotal v3]
-    E --> F[Windows Sandbox run + pcap]
-    F --> G[Verdict - RED or REVIEW]
+flowchart TB
+    subgraph S1 [Static - nothing runs]
+        direction LR
+        A[Downloaded file] --> B[Prepare - 7-Zip, read-only mount]
+        B --> C[Hash and signature]
+        C --> D[Static PE analysis]
+    end
+    subgraph S2 [Dynamic - disposable VM]
+        direction LR
+        E[VirusTotal v3] --> F[Windows Sandbox run + pcap]
+        F --> G[Verdict - RED or REVIEW]
+    end
+    S1 --> S2
 ```
 
 ---
@@ -165,6 +171,7 @@ A lightweight hybrid peer-to-peer messaging application designed to secure commu
 *   **O(1) Scale Group Cryptography:** Shared Group Symmetric Keys with a dynamic rekeying protocol, enforcing strict Forward Secrecy on member leave/removal by regenerating and redistributing keys to remaining members via wrapped RSA envelopes.
 *   **Passwordless Signature Auth:** Secure challenge-response handshakes on WebSocket endpoints, with all state-modifying API requests authenticated using custom request-bound RSA-PSS signature headers (`X-Timestamp`, `X-Signature`).
 *   **Cross-Platform Parity:** Desktop client written in Python Flet (Flutter engine) and a serverless Web client served via FastAPI utilising the browser WebCrypto API.
+*   **Serverless "Walkie-Talkie" Mode:** Two online devices can connect with no server at all by exchanging one-time codes (copy-paste or QR) signed with the identity key and bound to the WebRTC/DTLS session, so a tampered or impersonated code is detected. Supports chat, voice/video and SHA-256-verified file transfer up to 1 GB — from the desktop, a single self-contained `serverless.html` whose CSP blocks every request except WebRTC, or an Android app (ZXing QR scanning, no Google services).
 
 ```mermaid
 sequenceDiagram
@@ -241,7 +248,8 @@ graph TD
         <li><b>Multi-Mode GPS:</b> WorkManager periodic background tasks (~15m interval) + aggressive foreground tracking service (~3m interval).</li>
         <li><b>Smart Geofencing:</b> Safe Zones (50m–1km radius) with a 30m hysteresis buffer to prevent border-bounce notification spam.</li>
         <li><b>Remote Bypass:</b> Remote audio unmute and system DND bypass to locate lost phones.</li>
-        <li><b>ML Vitals & Reports:</b> Bento-style health dashboard tracking smartwatch heart rate anomalies against age/weight baselines.</li>
+        <li><b>Route Playback:</b> 14-day location history replayed on the map; one bucketed Firestore document per day with a 150 m distance filter and server-side TTL expiry. Legs over 400 m are drawn dashed — the map never claims a path it didn't sample.</li>
+        <li><b>Weekly Bento Report:</b> Battery profile, screen sessions and safe-zone entries/exits summarised weekly. Smartwatch vitals are planned for V2.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
@@ -289,18 +297,19 @@ graph TD
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/erkinavcii/AI-Resume-Optimizer">AI Resume Optimizer</a></h3>
-      <p><b>ATS-Focused CV Optimizer & Career Coach</b></p>
+      <h3>🚀 Solana Sniper Bot V21</h3>
+      <p><b>Latency-Critical Trading Bot with Quota-Aware Execution</b></p>
       <ul>
-        <li><b>AI Pipeline:</b> PDF CV → structured JSON with the Google Gen AI SDK, job-posting requirement extraction, and ATS-oriented rewriting shown as an inline diff with an ATS score.</li>
-        <li><b>SSRF Shield:</b> The job-posting URL fetcher allows only <code>http/https</code> and blocks localhost, RFC 1918 ranges and the <code>169.254.169.254</code> cloud metadata endpoint.</li>
-        <li><b>Abuse & Cost Controls:</b> Per-endpoint IP rate limits (e.g. 3/min for image generation, 20/min for chat) and layered payload limits (2 MB default, 15 MB only on the PDF route).</li>
-        <li><b>Zero Client Key Leakage:</b> All keys stay server-side; a central <code>MODEL_CONFIG</code> registry isolates model deprecations. Includes TTS interview rehearsal and a coaching chat.</li>
+        <li><b>Signal → Swap:</b> Regex-parses Telegram signal channels, screens each token with Rugcheck (honeypots, unlocked liquidity) and buys through the Jupiter Swap API.</li>
+        <li><b>Priority Rate Limiter:</b> The keyless Jupiter quota (5 requests / 10 s) is shared by price, quote and swap. Buys, sells and exit checks get a reserved priority lane while routine PnL polling is skipped when the quota is out — the HTTP 429 rate fell from 44–59 % in V20 to 0 % in dry-run measurement.</li>
+        <li><b>Verified Exits:</b> Per-second prices from the most liquid SOL pair on DexScreener; when a TP / SL / trailing threshold trips, real PnL is confirmed with a high-priority quote, and transactions are confirmed by racing WebSocket against HTTP polling.</li>
+        <li><b>Tested Before Trusted:</b> 57/57 offline unit tests, live API schema tests and a <code>DRY_RUN</code> mode; Telegram <code>/status</code>, <code>/panic</code>, <code>/buy</code> commands and a JSON trade log. Live transactions are not yet tested on V21.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-555555?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -435,7 +444,8 @@ graph TD
 | **Ekşim** 🔒 | Unofficial Android reader for Ekşi Sözlük; a Kotlin Multiplatform parser driven by a remote [`selectors.json`](https://github.com/erkinavcii/project-configs) so site changes are fixed without an app release | Kotlin · KMP |
 | **Wave Defense** 🔒 | Tower defense × twin-stick hero shooter: drag-to-build walls, levelled towers, research tree, enemies that hunt the hero, code-synthesized SFX | Unity 6 · C# |
 | **Gym Progress Tracker** 🔒 | Streak-driven social gym tracker with friend comparisons, 90-day heatmap and offline awareness | Flutter · Firebase |
-| **Solana Sniper Bot** 🔒 | Telegram-signal driven trading bot with Rugcheck screening, transaction confirmation checks, TP/SL and trailing-stop exits | Python · Solana · Jupiter API |
+| **SalatStreak** 🔒 | Prayer-habit tracker with a dual streak system, missed-prayer (kaza) ledger, dhikr counter, fasting log and friend leaderboards; localised in TR, EN and UR | Flutter · Firebase |
+| **Rock Shop** 🔒 | In development: 1–4 player online co-op, first-person shop simulator on an asteroid, built by a small team and targeting Steam Next Fest 2027 | Unity 6 · URP · C# |
 | **MenuApp** 🔒 | Digital menu SaaS for restaurants and cafés | ASP.NET Core |
 | [**iDATA Visa Tracker**](https://github.com/erkinavcii/ItalyaVize) | Async Playwright appointment tracker with persistent sessions, self-healing form recovery and audio alerts | Python · Playwright |
 | [**LyraApp**](https://github.com/erkinavcii/LyraApp-Pair) | Material 3 online/offline music player with strict MVI contracts | Kotlin · Jetpack Compose |
