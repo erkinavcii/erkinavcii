@@ -6,6 +6,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alierkinavci/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alierkinavci20@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -14,164 +23,126 @@ I am a Computer Engineering graduate dedicated to building highly secure, intell
 * **Zero-Knowledge Cryptographic Protocols** & P2P networking architectures.
 * **Deep Learning & Computer Vision** (MediaPipe attention tracking, OCR parsing).
 * **Sensor-Fusion Mobile Applications** (GPS-IMU calibration & drift mitigation).
-* **Intelligent RPA & Web Automation** (Playwright-stealth and anti-bot bypassing).
+* **Resilient Browser Automation** & stateful scraping workflows (Playwright).
 * **SaaS & Serverless Cloud Infrastructures** (Next.js, .NET Core, FastAPI, Supabase).
 
 I specialize in creating clean, robust, and cost-efficient architectures (often utilizing serverless free tiers or local execution models like LM Studio).
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erkinavcii&theme=radical" alt="Ali Erkin's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erkinavcii&theme=radical" alt="Top Languages by Commit" width="48%" />
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Core Tools
 
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Frameworks & Backend
+### ⚙️ Frameworks & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js_14--16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-2D3748?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native_/_Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity_6-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Hosting
+### 🗄️ Data, Infrastructure & Real-Time Media
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F72A?style=for-the-badge&logo=drizzle&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-130B24?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</p>
-
-### 🔧 DevOps, Automation & Security
-<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n_Automation-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright_Stealth-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/RSA--4096_/_AES--256-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC_/_DTLS--SRTP-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirusTotal_API-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Sandbox-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg_/_HLS-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg_/_WebRTC-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 </p>
 
-### 🧠 AI, Machine Learning & NLP
+### 🧠 AI & Security Tooling
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vosk_STT-FF6F00?style=for-the-badge&logo=audio-technica&logoColor=white" />
-  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek_API-4D6BFE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MediaPipe_/_OpenCV-00C7B7?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Sandbox_/_YARA-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
 ## 🌌 Core Projects Showcase
 
-### 1. 🎬 [Co-Watch](https://github.com/erkinavcii/CoWatch) · [⬇️ Windows Installer](https://github.com/erkinavcii/CoWatch/releases/latest) (Self-Hosted Watch Party & Real-Time Sync)
+### 1. 🎬 [Co-Watch](https://github.com/erkinavcii/CoWatch) · [⬇️ Windows Installer (v0.3.0)](https://github.com/erkinavcii/CoWatch/releases/latest) [![tests](https://github.com/erkinavcii/CoWatch/actions/workflows/tests.yml/badge.svg)](https://github.com/erkinavcii/CoWatch/actions/workflows/tests.yml) (Self-Hosted Watch Party & Real-Time Sync)
 Watch the same film with friends far away while **everyone picks their own subtitle languages** (you TR + EN, your friend RU + EN). The host's local file or torrent is streamed in original quality — no upload, no account, no rented server.
 
-*   **Lossless HLS Pipeline:** FFmpeg copies the video stream untouched (audio → AAC stereo) into HLS; magnet links are streamed through a Node `webtorrent` helper that fetches the container header/index first, then pieces in playback order.
-*   **Server-Authoritative Sync:** A FastAPI WebSocket room is the single source of truth (`playing`, `position`, `updatedAt`). Clients drifting > 1 s seek; 0.1–1 s drift is corrected smoothly by ±5 % playback rate. The room waits for stalled viewers until they have 4 s buffered.
-*   **Personal Dual Subtitles:** Subtitles are never burned in — each browser renders its own main + secondary track against the film clock, with per-track offsets. Subtitles are cached by OpenSubtitles hash; legacy encodings (`cp1254`, `cp1251`) are auto-fixed; missing languages can be translated by LLMs (cloud or local Ollama / LM Studio).
-*   **Together, not just synced:** P2P WebRTC voice, camera and screen sharing, live pointers and a drawing pen anchored to the same spot of the frame on every screen.
-*   **Zero-Config Sharing:** Tailscale Serve / Funnel gives friends one HTTPS link; a tray app + Inno Setup installer bundles FFmpeg and Node. Covered by a CI test workflow on GitHub Actions.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erkinavcii/CoWatch/main/docs/images/two-viewers.png" alt="Co-Watch dual-language synced playback with live pointers and chat" width="90%" />
+</p>
+
+*   **Lossless HLS & Smart HEVC Pipeline:** FFmpeg copies H.264/HEVC video streams untouched (`hvc1`) when all viewers' browsers support HEVC, falling back live to H.264 transcoding if an unsupported viewer joins or fails decode; magnet links stream sequentially through a Node `webtorrent` helper.
+*   **Server-Authoritative Sync & Adaptive Buffering:** A FastAPI WebSocket room is the single source of truth (`playing`, `position`, `updatedAt`). Clients drifting > 1 s seek; 0.1–1 s drift adjusts playback rate smoothly by ±5 %. Stalled viewers trigger adaptive rebuffering (`3.5 s`, stepping up to `10 s`/`20 s` on repeated stalls), with an optional `60 s` catch-up rule in Settings.
+*   **Black-Frame Self-Repair:** Compares player frame progress and luminance across browsers; if one viewer stalls on a black screen while others see bright frames, only that viewer seeks or refreshes its stream automatically.
+*   **Personal Dual Subtitles & Stremio Add-ons:** Unburned dual subtitle tracks rendered client-side with per-track offsets (`±ms`), OpenSubtitles hash caching, auto-repaired legacy encodings (`cp1254`/`cp1251`), optional AI translation (cloud or local Ollama / LM Studio), and non-content-hosting Stremio add-on support.
+*   **Together, Zero-Config Sharing:** P2P WebRTC voice, camera and screen sharing, anchored pointers/pen drawing, Tailscale Serve / Funnel sharing, tray app + Inno Setup installer (`v0.3.0`), and a 214-test CI matrix across Ubuntu & Windows.
 
 ```mermaid
 graph LR
-    A[Local video file] --> C[FFmpeg - video copy, AAC audio]
+    A[Local video file] --> C[FFmpeg - H.264/HEVC copy or transcode]
     B[Magnet link] -->|webtorrent helper| C
-    C -->|HLS segments| D[FastAPI room and sync server]
-    D <-->|WebSocket - play, pause, seek| E[Viewer browsers - hls.js]
+    C -->|fMP4 HLS segments| D[FastAPI room and sync server]
+    D <-->|WebSocket - play, pause, seek, luma| E[Viewer browsers - hls.js]
     E <-->|WebRTC voice, camera, screen| F[Other viewers]
-    G[OpenSubtitles / AI translation] -->|Per-viewer dual subtitles| E
+    G[OpenSubtitles / Stremio / AI translation] -->|Per-viewer dual subtitles| E
 ```
 
 ---
 
-### 2. 🧪 [SafeBox — Malware Triage Pipeline](https://github.com/erkinavcii/wsb-triage) (Security Tooling & Dynamic Analysis)
-A local web panel that inspects a downloaded file **before** it ever runs on the host — static analysis, reputation lookup and detonation inside a disposable Windows Sandbox, ending in a single verdict.
+### 2. 🧪 [SafeBox — Malware Triage Pipeline](https://github.com/erkinavcii/wsb-triage) [![tests](https://github.com/erkinavcii/wsb-triage/actions/workflows/tests.yml/badge.svg)](https://github.com/erkinavcii/wsb-triage/actions/workflows/tests.yml) (Security Tooling & Dynamic Analysis)
+A hardened local web workbench (`127.0.0.1`) that inspects downloaded files **before** execution — recursive archive & installer unpacking, YARA & PE static analysis, multi-source threat intel, disposable Windows Sandbox detonation, IOC export, and baseline diffing.
 
-*   **Static Analysis:** SHA-256 + Authenticode checks, PE header inspection, entropy, suspicious API imports and stealer / Telegram / Discord / anti-VM indicators on the 40 most suspicious files. Archives (RAR, encrypted, multi-part) are extracted with 7-Zip — nothing is executed at this stage.
-*   **Quota-Aware VirusTotal v3:** Hash lookups first (known malware surfaces instantly), then uploads of unknown files up to 650 MB, with automatic free-tier rate-limit back-off.
-*   **Hardened Dynamic Analysis:** Generated `.wsb` configs mount the sample read-only with clipboard, vGPU, printer, mic and camera disabled. An in-sandbox PowerShell monitor records new processes, connections, services, scheduled tasks, autoruns, Defender/hosts/firewall changes and dropped files; traffic is captured to `pcapng` via `pktmon`.
-*   **LAN Isolation with Tamper Detection:** A firewall rule blocks the home network and host from inside the sandbox; it is re-verified every 5 s and a removal re-applies it and raises a **RED** flag.
-*   **Safe-by-Default Panel:** Binds to `127.0.0.1` only and rejects cross-origin requests via `Origin` / `Sec-Fetch-Site` checks (CSRF and DNS-rebinding protection). Results are classified **RED / REVIEW** with a Markdown report and Wireshark-based DNS/TLS/HTTP summary.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erkinavcii/wsb-triage/main/static/screenshot.png" alt="SafeBox Web Interface" width="85%" />
+</p>
+
+*   **Static PE, Installer Unpacking & YARA:** SHA-256 + Authenticode verification, PE entropy & suspicious import heuristics, infostealer/C2 matching, recursive 7-Zip extraction, safe **NSIS / MSI / CAB / SFX** installer unpacking, and built-in **YARA** scanning (`yara-python` + fallback engine).
+*   **Multi-Source Hash Threat Intel:** Quota-aware **VirusTotal v3** lookups/uploads with automatic **MalwareBazaar & Hybrid Analysis** hash-only enrichment fallback when VT has no key or hits rate limits.
+*   **Hardened Windows Sandbox & Attribution:** Read-only mounts (`vGPU`/clipboard/audio/printer/camera disabled) with an internal LAN-blocking firewall checked every 5 s, optional scoped fake cursor/UIA clicks, periodic PNG sandbox screenshots, `pktmon` capture (`.pcapng`), and `tshark`-correlated process-to-network attribution.
+*   **IOC Export, Diff & Host Integration:** Generates Markdown/HTML/JSON reports, exports **CSV** & **STIX 2.1 Bundles**, diffs official vs. suspect builds (`Run Comparison`), and supports Download Folder watching, Desktop notifications, and an Explorer context menu.
+*   **Local-Only Security & CI:** Binds strictly to `127.0.0.1` with startup API token auth (`X-SafeBox-Token` / `HttpOnly` cookie), `Origin` / `Sec-Fetch-Site` checks, strict CSP (`script-src 'self'`), and a 150-test Windows CI suite.
 
 ```mermaid
 flowchart TB
     subgraph S1 ["Pre-execution — nothing runs"]
         direction LR
-        A[Downloaded file] --> B[Prepare - 7-Zip, read-only mount]
-        B --> C[Hash and signature]
-        C --> D[Static PE analysis]
-        D --> E[VirusTotal v3]
+        A[File / Archive] --> B[7-Zip + NSIS/MSI/CAB unpack]
+        B --> C[SHA-256 & Authenticode]
+        C --> D[PE Heuristics & YARA]
+        D --> E[VT v3 / MalwareBazaar / Hybrid Analysis]
     end
-    subgraph S2 ["Dynamic — disposable VM (opt-in)"]
+    subgraph S2 ["Dynamic & Triage — disposable VM (opt-in)"]
         direction LR
-        F[Windows Sandbox run + pcap] --> G[Verdict - RED or REVIEW]
+        F[Windows Sandbox + pktmon + screenshots] --> G[Verdict + Diff + CSV/STIX 2.1 IOCs]
     end
     E --> F
 ```
 
 ---
 
-### 3. 🔐 [HybridP2P-Messenger](https://github.com/erkinavcii/HybridP2P-Messenger) (Zero-Knowledge E2EE Chat)
-A lightweight hybrid peer-to-peer messaging application designed to secure communications against network surveillance and active relay server compromises.
+### 3. 🔐 [HybridP2P-Messenger](https://github.com/erkinavcii/HybridP2P-Messenger) · [⬇️ Windows Release (v0.1.0)](https://github.com/erkinavcii/HybridP2P-Messenger/releases/latest) [![tests](https://github.com/erkinavcii/HybridP2P-Messenger/actions/workflows/tests.yml/badge.svg)](https://github.com/erkinavcii/HybridP2P-Messenger/actions/workflows/tests.yml) (Zero-Knowledge E2EE Chat)
+A lightweight hybrid peer-to-peer messaging application engineered against network surveillance and active relay compromises, backed by **K1–K4 security hardening** and an automated **321-test CI suite** (Ubuntu & Windows).
 
-*   **End-to-End Encryption:** Secured with local RSA-4096 asymmetric handshakes and AES-256-GCM symmetric session wrapping. Private keys never leave the user's physical device.
-*   **E2EE WebRTC Calls:** Implements STUN-first direct peer-to-peer UDP WebRTC audio/video calling. Automatically negotiates zero-knowledge TURN relay streams if symmetric firewalls are active.
-*   **O(1) Scale Group Cryptography:** Shared Group Symmetric Keys with a dynamic rekeying protocol, enforcing strict Forward Secrecy on member leave/removal by regenerating and redistributing keys to remaining members via wrapped RSA envelopes.
-*   **Passwordless Signature Auth:** Secure challenge-response handshakes on WebSocket endpoints, with all state-modifying API requests authenticated using custom request-bound RSA-PSS signature headers (`X-Timestamp`, `X-Signature`).
-*   **Cross-Platform Parity:** Desktop client written in Python Flet (Flutter engine) and a serverless Web client served via FastAPI utilising the browser WebCrypto API.
-*   **Serverless "Walkie-Talkie" Mode:** Two online devices can connect with no server at all by exchanging one-time codes (copy-paste or QR) signed with the identity key and bound to the WebRTC/DTLS session, so a tampered or impersonated code is detected. Supports chat, voice/video and SHA-256-verified file transfer up to 1 GB — from the desktop, a single self-contained `serverless.html` whose CSP blocks every request except WebRTC, or an Android app (ZXing QR scanning, no Google services).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erkinavcii/HybridP2P-Messenger/main/docs/images/web-chat.png" alt="HybridP2P E2EE Web Chat with RSA-PSS signatures and double green ticks" width="85%" />
+</p>
+
+*   **End-to-End Encryption & Read Receipts:** Local RSA-4096 handshakes + AES-256-GCM symmetric session wrapping, RSA-PSS signed 1:1 messages (downgrade protected), E2EE double green tick read receipts, ephemeral RAM-only chats, and view-once messages/files.
+*   **E2EE WebRTC Calls & Adaptive Quality:** STUN-first direct P2P DTLS-SRTP audio/video calling with optional `coturn` relay fallback and RTT/loss-based dynamic video quality scaling.
+*   **Signed O(1) Group Cryptography:** Shared Group Symmetric Keys with membership-verified, RSA-PSS signed key distribution and dynamic rekeying upon member removal.
+*   **Hardened Security & Cross-Platform Parity:** UUIDv4-only login challenge signing, sanitized desktop file saves (`Downloads/HybridP2P`), strict web XSS escaping + MIME allowlisting, Python Flet desktop client (`v0.1.0` Windows `.exe`), and WebCrypto web client.
+*   **Serverless "Walkie-Talkie" Mode:** Device-to-device chat, voice/video, and SHA-256-verified file transfer (up to 1 GB) via identity-signed QR/text codes — available from the desktop launcher, a self-contained `serverless.html` (CSP blocks all non-WebRTC requests), or a wrapped Android app.
 
 ```mermaid
 sequenceDiagram
@@ -199,8 +170,12 @@ sequenceDiagram
 
 ---
 
-### 4. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SematicGalaxyContext) · [🌐 Live Demo](https://sematicgalaxycontext-ysbtyhl4rqg7ijsja43fs4.streamlit.app/) (AI & Semantic Knowledge Graph)
+### 4. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SemanticGalaxyContext) · [🌐 Live Demo](https://sematicgalaxycontext-ysbtyhl4rqg7ijsja43fs4.streamlit.app/) (AI & Semantic Knowledge Graph)
 A new-generation personal knowledge management system that uses machine learning to analyze saved bookmarks, structure associations, and project them into an interactive 3D semantic space.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erkinavcii/SemanticGalaxyContext/main/screenshots/03_galaxy_3d.png" alt="Semantic Galaxy 3D UMAP Semantic Knowledge Graph" width="85%" />
+</p>
 
 *   **Machine Learning Pipeline:** Utilizes `sentence-transformers` (`all-MiniLM-L6-v2`) to generate 384-dimensional dense vector embeddings of bookmark descriptions and tags.
 *   **Dimensionality Reduction:** Applies `UMAP` (Uniform Manifold Approximation and Projection) to project the high-dimensional vectors into interactive 3D coordinates.
@@ -441,7 +416,7 @@ graph TD
 | [**AI Reservation Assistant**](https://github.com/erkinavcii/Ai-Reservation-Assistant) | LLM booking agent for WhatsApp / sahibinden.com leads: slot-filling for dates and guests, natural-language date parsing, tool calling against the availability API with alternative-date offers | Python · DeepSeek · FastAPI |
 | [**AI Resume Optimizer**](https://github.com/erkinavcii/AI-Resume-Optimizer) | ATS-focused CV rewriter and interview coach with inline diffs, SSRF-hardened job-URL fetching, per-route rate/payload limits and server-side key isolation | React · Express · Gemini |
 | [**Pulsify**](https://github.com/cdemir7/Pulsify) | AI operations platform for SMEs — orders, shipments and customers on one screen; Gemini 2.5 Flash flags shipment delays proactively and analyses customer sentiment in real time. Team project (contributor) | FastAPI · React · MongoDB · Gemini |
-| **Dongu** 🔒 | Offline-only menstrual cycle tracker that learns which symptoms *you* get per phase — no account, no server, no network calls | React Native · Expo |
+| **Dongu** 🔒 | Local-first by default with opt-in Zero-Knowledge E2EE partner sync (single-use pairing codes across Android, iOS & Web PWA) | React Native · Expo |
 | **Ekşim** 🔒 | Unofficial Android reader for Ekşi Sözlük; a Kotlin Multiplatform parser driven by a remote [`selectors.json`](https://github.com/erkinavcii/project-configs) so site changes are fixed without an app release | Kotlin · KMP |
 | **Wave Defense** 🔒 | Tower defense × twin-stick hero shooter: drag-to-build walls, levelled towers, research tree, enemies that hunt the hero, code-synthesized SFX | Unity 6 · C# |
 | **Gym Progress Tracker** 🔒 | Streak-driven social gym tracker with friend comparisons, 90-day heatmap and offline awareness | Flutter · Firebase |
