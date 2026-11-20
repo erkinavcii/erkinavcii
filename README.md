@@ -174,7 +174,7 @@ sequenceDiagram
 A new-generation personal knowledge management system that uses machine learning to analyze saved bookmarks, structure associations, and project them into an interactive 3D semantic space.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erkinavcii/SemanticGalaxyContext/main/screenshots/03_galaxy_3d.png" alt="Semantic Galaxy 3D UMAP Semantic Knowledge Graph" width="85%" />
+  <img src="https://raw.githubusercontent.com/erkinavcii/SemanticGalaxyContext/master/screenshots/03_galaxy_3d.png" alt="Semantic Galaxy 3D UMAP Semantic Knowledge Graph" width="85%" />
 </p>
 
 *   **Machine Learning Pipeline:** Utilizes `sentence-transformers` (`all-MiniLM-L6-v2`) to generate 384-dimensional dense vector embeddings of bookmark descriptions and tags.
