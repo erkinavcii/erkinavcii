@@ -17,6 +17,15 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erkinavcii&theme=radical" alt="Ali Erkin's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erkinavcii&theme=radical" alt="Top Languages by Commit" width="48%" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 I am a Computer Engineering graduate dedicated to building highly secure, intelligent, and automated software ecosystems. My technical expertise spans across:
