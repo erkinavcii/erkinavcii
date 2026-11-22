@@ -39,45 +39,85 @@ I specialize in creating clean, robust, and cost-efficient architectures (often 
 
 ---
 
-## 🛠️ Tech Stack & Core Tools
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Frameworks & Platforms
+### ⚙️ Frameworks & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_14--16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-2D3748?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native_/_Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity_6-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-### 🗄️ Data, Infrastructure & Real-Time Media
+### 🗄️ Databases & Hosting
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg_/_WebRTC-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F72A?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-130B24?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-### 🧠 AI & Security Tooling
+### 🔧 DevOps, Automation & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright_Stealth-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/RSA--4096_/_AES--256-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC_/_DTLS--SRTP-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirusTotal_API-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Sandbox_/_YARA-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg_/_HLS-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+### 🧠 AI, Machine Learning & NLP
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vosk_STT-FF6F00?style=for-the-badge&logo=audio-technica&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek_API-4D6BFE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/MediaPipe_/_OpenCV-00C7B7?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Sandbox_/_YARA-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
 </p>
 
 ---
@@ -140,16 +180,39 @@ flowchart TB
 
 ---
 
-### 3. 🔐 [HybridP2P-Messenger](https://github.com/erkinavcii/HybridP2P-Messenger) · [⬇️ Windows Release (v0.1.0)](https://github.com/erkinavcii/HybridP2P-Messenger/releases/latest) [![tests](https://github.com/erkinavcii/HybridP2P-Messenger/actions/workflows/tests.yml/badge.svg)](https://github.com/erkinavcii/HybridP2P-Messenger/actions/workflows/tests.yml) (Zero-Knowledge E2EE Chat)
-A lightweight hybrid peer-to-peer messaging application engineered against network surveillance and active relay compromises, backed by **K1–K4 security hardening** and an automated **321-test CI suite** (Ubuntu & Windows).
+### 3. ⚖️ [CrossCheckLLM](https://github.com/erkinavcii/CrossCheckLLM) · [⬇️ Windows Release (v0.1.0)](https://github.com/erkinavcii/CrossCheckLLM/releases/latest) (Multi-LLM Blind Cross-Verification & Decision Council)
+Stop copy-pasting between AI chats to double-check an answer. Ask several models in parallel or paste an answer you already have — reviewers evaluate each other **anonymously in blind mode**, and a chairman model synthesizes one cross-checked verdict.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erkinavcii/CrossCheckLLM/main/docs/screenshots/en-decision.png" alt="CrossCheckLLM Decision mode with Borda count ranking and blind multi-model review" width="85%" />
+</p>
+
+*   **Six Orchestration Modes:** **Cross-check** (independent reviewers audit an existing answer against prompt injection), **Decision** (Risk Analyst, Pragmatist & Devil's Advocate rank shuffled options via **Borda count**), **Blind-spot finder** (`error_finder`), **Idea synthesis**, **Chairman** (anonymous cross-voting matrix with runtime self-vote exclusion), and **No-chairman**.
+*   **Blind Mode & Live SSE Streaming:** Masks model identities (`••••••••`) until revealed to prevent brand bias, streaming every draft, review, voting matrix critique, and chairman comparison live over Server-Sent Events without breaking text selection.
+*   **Resilient Multi-Provider Engine:** Exponential backoff + jitter, per-slot fallback chains across **Groq, Google Gemini, OpenRouter, DeepSeek**, and custom OpenAI-compatible local/cloud endpoints (**Ollama, LM Studio, Cerebras**), plus automatic `<think>` stripping and truncated JSON repair.
+*   **Desktop App, Docker & Bilingual UI:** Ships as a standalone Windows desktop app (`PyInstaller` + `pywebview` WebView2 `v0.1.0`), Docker container, or one-click launcher (`start.bat` / `start.sh`) with instant English/Turkish switching, Markdown/JSON export, and a mocked `pytest` suite.
+
+```mermaid
+flowchart LR
+    A[Question / Existing Answer / Options] --> B1[Reviewer A]
+    A --> B2[Reviewer B]
+    A --> B3[Reviewer C]
+    B1 & B2 & B3 -->|Anonymous blind review / Borda count / Cross-voting| C[Chairman Model Synthesis]
+    C -->|Fallback to majority / Borda winner if chairman fails| D[Cross-Checked Verdict + Transparency Telemetry]
+```
+
+---
+
+### 4. 🔐 [HybridP2P-Messenger](https://github.com/erkinavcii/HybridP2P-Messenger) · [⬇️ Windows Release (v0.1.0)](https://github.com/erkinavcii/HybridP2P-Messenger/releases/latest) [![tests](https://github.com/erkinavcii/HybridP2P-Messenger/actions/workflows/tests.yml/badge.svg)](https://github.com/erkinavcii/HybridP2P-Messenger/actions/workflows/tests.yml) (Zero-Knowledge E2EE Chat)
+A lightweight hybrid peer-to-peer messaging application engineered against network surveillance and active relay compromises, backed by **K1–K4 security hardening** and an automated **329-test CI suite** (Ubuntu & Windows).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/erkinavcii/HybridP2P-Messenger/main/docs/images/web-chat.png" alt="HybridP2P E2EE Web Chat with RSA-PSS signatures and double green ticks" width="85%" />
 </p>
 
-*   **End-to-End Encryption & Read Receipts:** Local RSA-4096 handshakes + AES-256-GCM symmetric session wrapping, RSA-PSS signed 1:1 messages (downgrade protected), E2EE double green tick read receipts, ephemeral RAM-only chats, and view-once messages/files.
+*   **End-to-End Encryption & Read Receipts:** Local RSA-4096 handshakes + AES-256-GCM symmetric session wrapping, RSA-PSS signed 1:1 messages and file transfers (downgrade protected), E2EE double green tick read receipts, ephemeral RAM-only chats, and view-once messages/files.
 *   **E2EE WebRTC Calls & Adaptive Quality:** STUN-first direct P2P DTLS-SRTP audio/video calling with optional `coturn` relay fallback and RTT/loss-based dynamic video quality scaling.
-*   **Signed O(1) Group Cryptography:** Shared Group Symmetric Keys with membership-verified, RSA-PSS signed key distribution and dynamic rekeying upon member removal.
+*   **Signed O(1) Group Cryptography:** Shared Group Symmetric Keys with membership-verified, RSA-PSS signed key distribution, member management UI, and automatic rekeying upon member removal.
 *   **Hardened Security & Cross-Platform Parity:** UUIDv4-only login challenge signing, sanitized desktop file saves (`Downloads/HybridP2P`), strict web XSS escaping + MIME allowlisting, Python Flet desktop client (`v0.1.0` Windows `.exe`), and WebCrypto web client.
 *   **Serverless "Walkie-Talkie" Mode:** Device-to-device chat, voice/video, and SHA-256-verified file transfer (up to 1 GB) via identity-signed QR/text codes — available from the desktop launcher, a self-contained `serverless.html` (CSP blocks all non-WebRTC requests), or a wrapped Android app.
 
@@ -179,7 +242,7 @@ sequenceDiagram
 
 ---
 
-### 4. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SemanticGalaxyContext) · [🌐 Live Demo](https://sematicgalaxycontext-ysbtyhl4rqg7ijsja43fs4.streamlit.app/) (AI & Semantic Knowledge Graph)
+### 5. 🌌 [Semantic Galaxy](https://github.com/erkinavcii/SemanticGalaxyContext) · [🌐 Live Demo](https://sematicgalaxycontext-ysbtyhl4rqg7ijsja43fs4.streamlit.app/) (AI & Semantic Knowledge Graph)
 A new-generation personal knowledge management system that uses machine learning to analyze saved bookmarks, structure associations, and project them into an interactive 3D semantic space.
 
 <p align="center">
