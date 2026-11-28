@@ -150,16 +150,18 @@ graph LR
 ---
 
 ### 2. 🧪 [SafeBox — Malware Triage Pipeline](https://github.com/erkinavcii/wsb-triage) [![tests](https://github.com/erkinavcii/wsb-triage/actions/workflows/tests.yml/badge.svg)](https://github.com/erkinavcii/wsb-triage/actions/workflows/tests.yml) (Security Tooling & Dynamic Analysis)
-A hardened local web workbench (`127.0.0.1`) that inspects downloaded files **before** execution — recursive archive & installer unpacking, YARA & PE static analysis, multi-source threat intel, disposable Windows Sandbox detonation, IOC export, and baseline diffing.
+A hardened local web workbench (`127.0.0.1`) that inspects downloaded files and links **before** you run or open them — recursive archive & installer unpacking, YARA & PE static analysis, malware family / C2 config extraction, multi-source threat intel, disposable Windows Sandbox detonation with optional HTTPS decryption, a 1–10 score with MITRE ATT&CK mapping, IOC export, and baseline diffing, driven by a guided four-step analysis wizard.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/erkinavcii/wsb-triage/main/static/screenshot.png?v=2" alt="SafeBox analysis result with verdict score, red findings and tabbed results" width="85%" />
 </p>
 
 *   **Static PE, Installer Unpacking & YARA:** SHA-256 + Authenticode verification, PE entropy & suspicious import heuristics, infostealer/C2 matching, recursive 7-Zip extraction, safe **NSIS / MSI / CAB / SFX** installer unpacking, and built-in **YARA** scanning (`yara-python` + fallback engine).
+*   **Family & C2 Config Extraction:** **CAPE parsers** (66 families) run in an isolated process on the riskiest files, on files the sample drops, and on PE images carved from **YARA-scanned memory dumps**; extracted C2 addresses flow into the verdict and IOCs.
 *   **Multi-Source Hash Threat Intel:** Quota-aware **VirusTotal v3** lookups/uploads with automatic **MalwareBazaar & Hybrid Analysis** hash-only enrichment fallback when VT has no key or hits rate limits.
-*   **Hardened Windows Sandbox & Attribution:** Read-only mounts (`vGPU`/clipboard/audio/printer/camera disabled) with an internal LAN-blocking firewall checked every 5 s, optional scoped fake cursor/UIA clicks, periodic PNG sandbox screenshots, `pktmon` capture (`.pcapng`), and `tshark`-correlated process-to-network attribution.
-*   **IOC Export, Diff & Host Integration:** Generates Markdown/HTML/JSON reports, exports **CSV** & **STIX 2.1 Bundles**, diffs official vs. suspect builds (`Run Comparison`), and supports Download Folder watching, Desktop notifications, and an Explorer context menu.
+*   **Hardened Windows Sandbox & Attribution:** Read-only mounts (`vGPU`/clipboard/audio/printer/camera disabled) with an internal LAN-blocking firewall checked every 5 s, optional scoped fake cursor/UIA clicks, honeyfiles, `pktmon` capture (`.pcapng`), and `tshark`-correlated process-to-network attribution. Optional **mitmproxy HTTPS decryption**, an offline **FakeNet** mode, decoded **PowerShell script blocks (event 4104)**, and a VirtualBox backend.
+*   **Link Analysis:** URLs are opened in Edge **inside** the sandbox, never on the host; the redirect chain, a VirusTotal URL report, and every downloaded file (analyzed without running) feed the verdict.
+*   **Verdict, IOC Export & Diff:** Red / review / clean verdict with a **1–10 score** and evidence-backed **MITRE ATT&CK** tags; Markdown/HTML/JSON reports, **CSV** & **STIX 2.1 Bundles**, official vs. suspect build diffing (`Run Comparison`), Download Folder watching, Desktop notifications, and an Explorer context menu.
 *   **Local-Only Security & CI:** Binds strictly to `127.0.0.1` with startup API token auth (`X-SafeBox-Token` / `HttpOnly` cookie), `Origin` / `Sec-Fetch-Site` checks, strict CSP (`script-src 'self'`), and a 250-test Windows CI suite.
 
 ```mermaid
@@ -168,12 +170,14 @@ flowchart TB
         direction LR
         A[File / Archive] --> B[7-Zip + NSIS/MSI/CAB unpack]
         B --> C[SHA-256 & Authenticode]
-        C --> D[PE Heuristics & YARA]
+        C --> D[PE Heuristics, YARA & CAPE config]
         D --> E[VT v3 / MalwareBazaar / Hybrid Analysis]
     end
     subgraph S2 ["Dynamic & Triage — disposable VM (opt-in)"]
         direction LR
-        F[Windows Sandbox + pktmon + screenshots] --> G[Verdict + Diff + CSV/STIX 2.1 IOCs]
+        U[Link: Edge in sandbox] --> F
+        F[Windows Sandbox + pktmon + mitmproxy] --> M[Drops, PowerShell 4104 & memory dumps]
+        M --> G[Score 1-10 + ATT&CK + CSV/STIX 2.1 IOCs]
     end
     E --> F
 ```
