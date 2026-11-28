@@ -153,14 +153,14 @@ graph LR
 A hardened local web workbench (`127.0.0.1`) that inspects downloaded files **before** execution — recursive archive & installer unpacking, YARA & PE static analysis, multi-source threat intel, disposable Windows Sandbox detonation, IOC export, and baseline diffing.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erkinavcii/wsb-triage/main/static/screenshot.png" alt="SafeBox Web Interface" width="85%" />
+  <img src="https://raw.githubusercontent.com/erkinavcii/wsb-triage/main/static/screenshot.png?v=2" alt="SafeBox analysis result with verdict score, red findings and tabbed results" width="85%" />
 </p>
 
 *   **Static PE, Installer Unpacking & YARA:** SHA-256 + Authenticode verification, PE entropy & suspicious import heuristics, infostealer/C2 matching, recursive 7-Zip extraction, safe **NSIS / MSI / CAB / SFX** installer unpacking, and built-in **YARA** scanning (`yara-python` + fallback engine).
 *   **Multi-Source Hash Threat Intel:** Quota-aware **VirusTotal v3** lookups/uploads with automatic **MalwareBazaar & Hybrid Analysis** hash-only enrichment fallback when VT has no key or hits rate limits.
 *   **Hardened Windows Sandbox & Attribution:** Read-only mounts (`vGPU`/clipboard/audio/printer/camera disabled) with an internal LAN-blocking firewall checked every 5 s, optional scoped fake cursor/UIA clicks, periodic PNG sandbox screenshots, `pktmon` capture (`.pcapng`), and `tshark`-correlated process-to-network attribution.
 *   **IOC Export, Diff & Host Integration:** Generates Markdown/HTML/JSON reports, exports **CSV** & **STIX 2.1 Bundles**, diffs official vs. suspect builds (`Run Comparison`), and supports Download Folder watching, Desktop notifications, and an Explorer context menu.
-*   **Local-Only Security & CI:** Binds strictly to `127.0.0.1` with startup API token auth (`X-SafeBox-Token` / `HttpOnly` cookie), `Origin` / `Sec-Fetch-Site` checks, strict CSP (`script-src 'self'`), and a 150-test Windows CI suite.
+*   **Local-Only Security & CI:** Binds strictly to `127.0.0.1` with startup API token auth (`X-SafeBox-Token` / `HttpOnly` cookie), `Origin` / `Sec-Fetch-Site` checks, strict CSP (`script-src 'self'`), and a 250-test Windows CI suite.
 
 ```mermaid
 flowchart TB
